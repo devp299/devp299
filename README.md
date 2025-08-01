@@ -12,9 +12,7 @@
 <h2 align="center">🛠 My Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devp299&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=devp299&theme=github-dark" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devp299&layout=compact&theme=github_dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devp299&layout=compact&theme=github_dark" width="48%" />
 </p>
 
   
