@@ -17,4 +17,8 @@
 
   
 <h2 align="center">📫 Connect with me</h2>
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dev-patel-d2909" target="_blank">Dev Patel</a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-patel-d2909/">🔗 LinkedIn</a> • 
+  <a href="https://leetcode.com/u/devptel2734/">🧩 LeetCode</a> • 
+</p>
+
