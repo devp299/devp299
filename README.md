@@ -10,10 +10,13 @@
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devp299&theme=github-dark" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=devp299&show_icons=true&theme=github_dark" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devp299&layout=compact&theme=github_dark" width="50%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devp299&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devp299&theme=github-dark" width="48%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devp299&layout=compact&theme=github_dark" width="50%" />
+</p>
+
   
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dev-patel-d2909" target="_blank">Dev Patel</a></p>
