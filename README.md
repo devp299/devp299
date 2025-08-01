@@ -5,7 +5,7 @@
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-61DAFA?logo=typescript&logoColor=000">&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;</div>
