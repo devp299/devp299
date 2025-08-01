@@ -12,5 +12,6 @@
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devp299&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<img src="https://github-readme-stats.vercel.app/api?username=devp299&show_icons=true&theme=github_dark" width="48%" />
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/dev-patel-d2909" target="_blank">Dev Patel</a></p>
